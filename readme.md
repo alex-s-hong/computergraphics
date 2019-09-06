@@ -1,3 +1,3 @@
-# Assignment 4: Final Project
+# Computer Graphics project
 
-This is a blank repo, you can do whatever you like! (within the range of your proposal and permission of Professor)
+Wall dodge game utilizing OpenGL [Demo Video](https://www.youtube.com/watch?v=hjfcKSG7JLY)
